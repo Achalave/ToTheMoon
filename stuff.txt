@@ -1,0 +1,34 @@
+ToDo:
+Create the fitness calculation function
+
+
+
+Earth Mass:	5.972*10^24 Kg
+Moon Mass:	7.348*10^22 Kg
+Rocket Mass: 	2970000 Kg
+Ratio:		81.274
+
+Earth Radius:	6371 km
+Moon Radius:	1736 km
+Ratio:		3.669
+
+Dist Between:	384400 km (center to center)
+
+Ratio between earth radius and distance between
+		60.336
+
+
+Fitness Modifiers
+---
+Distance Traveled
+Distance to moon
+Survival time
+Crashed
+Landed
+Bonus for crashing on moon
+*use angle of moon landing
+*harder crash = fewer points
+
+implement enforce bounds
+implement multithreading
+The screen radius changes not the earth radius
